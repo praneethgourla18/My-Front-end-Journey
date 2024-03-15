@@ -85,10 +85,14 @@ Responsive website using HTML and CSS
 ## CSS Animations : Styling things Up
 Unlock the world of captivating web design! Dive into 'Introduction to CSS Animations' and discover the magic of breathing life into your websites. Learn the basics of CSS animations, from transitions to keyframes, and embark on a journey to create visually stunning and dynamic web experiences!
 
+
+### Bringing websites to life
+
 [Animations.webm](https://github.com/praneethgourla18/My-Front-end-Journey/assets/154213100/fab3dfed-1d4a-47d7-b880-c9ea3f07e695)
 
 
-### Advanced Animation:
+### Real life Use-Case
+[Real life use case.webm](https://github.com/praneethgourla18/My-Front-end-Journey/assets/154213100/8908b481-e547-48c7-897a-284bdafce50e)
 
 
 ## CSS Responsive Project
