@@ -1,5 +1,5 @@
 # My Front-end web development Journey
-
+Learning the things in a better way!
 ## Essentials - So you don't fail
 Embark on an insightful journey as we unravel the intricacies of our learning platform. Navigate uncertainties with proven techniques, ensuring a smooth learning experience. This video serves as your guide, equipping you to confidently resolve doubts and make the most of your educational adventure.
 
@@ -102,7 +102,9 @@ The CSS Responsive Project is a hands-on exploration of creating a responsive we
 
 -Project video:
 
-[Uploading Project video.webm…]()
+[Project video.webm](https://github.com/praneethgourla18/My-Front-end-Journey/assets/154213100/cfe09058-7f52-493c-9cbb-b8660c868a88)
 
+
+- Source code link : https://github.com/praneethgourla18/My-Front-end-Journey/tree/83cf6a81123866b50462916f0d73339ac59c5049/CSS%20Responsive%20Project
 
 
