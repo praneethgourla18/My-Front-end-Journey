@@ -53,13 +53,14 @@ This section introduces you to practical CSS projects. You'll apply your CSS ski
 
 -Source Code link : https://github.com/praneethgourla18/My-Front-end-Journey/tree/eb4f3951fd2dfeb07a2fd2555e0f126985653dff/CSS%20Projects/Project%202
 
-###Project 3 
+### Project 3 
 
 ![Screenshot (26)](https://github.com/praneethgourla18/My-Front-end-Journey/assets/154213100/4e1cae5a-6c96-4223-b501-4f66f3a41a07)
 
 
--Source Code link :
-Responsive Web Development
+-Source Code link : https://github.com/praneethgourla18/My-Front-end-Journey/tree/254269f1d989014e3e5293fa267d69fd4615f42f/CSS%20Projects/Project%203
+
+## Responsive Web Development
 Responsive web development is all about creating websites that adapt to various screen sizes and devices. In this topic, you'll get a fundamental introduction to the principles and techniques behind building web pages that look great on everything from large desktop monitors to tiny mobile screens.
 
 Responsive website using HTML and CSS
@@ -74,44 +75,28 @@ Responsive website using HTML and CSS
 
 --> Key points to keep in mind to make website responsive
 
-CSS flexbox
-CSS Units
-Responsive Typography
-Mobile-First Approach
-Flexible Images and Media
-Practice! Practice! Practice!
+* CSS flexbox
+* CSS Units
+* Responsive Typography
+* Mobile-First Approach
+* Flexible Images and Media
+#### Practice! Practice! Practice!
 
-CSS Animations : Styling things Up
+## CSS Animations : Styling things Up
 Unlock the world of captivating web design! Dive into 'Introduction to CSS Animations' and discover the magic of breathing life into your websites. Learn the basics of CSS animations, from transitions to keyframes, and embark on a journey to create visually stunning and dynamic web experiences!
 
--Before & After psuedo Selector
+[Animations.webm](https://github.com/praneethgourla18/My-Front-end-Journey/assets/154213100/fab3dfed-1d4a-47d7-b880-c9ea3f07e695)
 
-Master the art of CSS wizardry! Delve into 'CSS Animations: Enhancing Design with ::before and ::after' to wield the power of pseudo-elements. Learn to craft captivating designs and elevate your web creations using these versatile tools in CSS animation.
 
-Bringing Websites to life:
+### Advanced Animation:
 
-ezgif com-video-to-gif (1)
 
-Learn Advanced Animation:
-
-ezgif com-video-to-gif (2)
-
-CSS Responsive Project
+## CSS Responsive Project
 The CSS Responsive Project is a hands-on exploration of creating a responsive web project. In this introduction, you'll get an overview of what to expect in this project and the importance of making web content adaptable to various screen sizes.
 
 Use Marquee Tag for Scrolling images in horizontal or vertical direction
 
-Another way to scroll images in vertical direction : use animation for scrolling :
 
-  @keyframes anime {
-      from {
-        transform: translateX(0);
-      }
-
-      to {
-        transform: translateX(-100%);
-      }
-  }
 -Project ScreenShot:
 
 screencapture-127-0-0-1-5500-index-html-2023-11-29-22_20_59
