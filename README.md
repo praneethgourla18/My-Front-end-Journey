@@ -98,13 +98,11 @@ Unlock the world of captivating web design! Dive into 'Introduction to CSS Anima
 ## CSS Responsive Project
 The CSS Responsive Project is a hands-on exploration of creating a responsive web project. In this introduction, you'll get an overview of what to expect in this project and the importance of making web content adaptable to various screen sizes.
 
-Use Marquee Tag for Scrolling images in horizontal or vertical direction
 
 
--Project ScreenShot:
+-Project video:
 
-screencapture-127-0-0-1-5500-index-html-2023-11-29-22_20_59
+[Uploading Project video.webm…]()
 
-screencapture-127-0-0-1-5500-2023-11-30-18_06_45
 
 
