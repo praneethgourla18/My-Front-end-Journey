@@ -46,22 +46,21 @@ This section introduces you to practical CSS projects. You'll apply your CSS ski
 ![Project1](https://github.com/praneethgourla18/My-Front-end-Journey/assets/154213100/ff693881-8a28-4630-b0ce-e28406cbe629)
 
 
--Source Code link : https://github.com/Lucky-Kashyap/Front-End-Domination-Create-Anything-with-Code/tree/main/CSS%20Projects%20-%20Elevate%20Your%20Design%20Skills/Project%201
+-Source Code link : https://github.com/praneethgourla18/My-Front-end-Journey/tree/ad19257ba9a36271473dbff94fcf5b334bc083f2/CSS%20Projects/Project%201
 
 ### Project 2
 ![Screenshot (25)](https://github.com/praneethgourla18/My-Front-end-Journey/assets/154213100/93920a29-0616-4ab4-9b52-a58c3c17c6a1)
 
 
 
--Source Code link : https://github.com/Lucky-Kashyap/Front-End-Domination-Create-Anything-with-Code/tree/main/CSS%20Projects%20-%20Elevate%20Your%20Design%20Skills/project%202%20cotton%20weave
+-Source Code link : 
 
 ###Project 3 
 
 ![Screenshot (26)](https://github.com/praneethgourla18/My-Front-end-Journey/assets/154213100/4e1cae5a-6c96-4223-b501-4f66f3a41a07)
 
 
--Source Code link : https://github.com/Lucky-Kashyap/Front-End-Domination-Create-Anything-with-Code/tree/main/CSS%20Projects%20-%20Elevate%20Your%20Design%20Skills/project%203%20trendline
-
+-Source Code link :
 Responsive Web Development
 Responsive web development is all about creating websites that adapt to various screen sizes and devices. In this topic, you'll get a fundamental introduction to the principles and techniques behind building web pages that look great on everything from large desktop monitors to tiny mobile screens.
 
