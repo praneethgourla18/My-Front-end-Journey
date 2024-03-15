@@ -1,7 +1,5 @@
 # My Front-end web development Journey
 
-Start with Front-End Journey with Sheryians Coding School (Front-End Domination: Create-Anything-with-Code)
-
 ## Essentials - So you don't fail
 Embark on an insightful journey as we unravel the intricacies of our learning platform. Navigate uncertainties with proven techniques, ensuring a smooth learning experience. This video serves as your guide, equipping you to confidently resolve doubts and make the most of your educational adventure.
 
@@ -53,7 +51,7 @@ This section introduces you to practical CSS projects. You'll apply your CSS ski
 
 
 
--Source Code link : 
+-Source Code link : https://github.com/praneethgourla18/My-Front-end-Journey/tree/eb4f3951fd2dfeb07a2fd2555e0f126985653dff/CSS%20Projects/Project%202
 
 ###Project 3 
 
